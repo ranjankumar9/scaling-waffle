@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Register Page
+![Register](https://github.com/ranjankumar9/scaling-waffle/assets/107936455/00e08717-c913-4ce8-81d8-c9898c69836f)
+
+# Login Page
+![login](https://github.com/ranjankumar9/scaling-waffle/assets/107936455/148ab765-7521-4236-850a-794c872d2df2)
+
+# Login drop-menu
+![dropdown](https://github.com/ranjankumar9/scaling-waffle/assets/107936455/4d9f4c75-7b76-4a66-85e7-b6ca315b17f8)
+
+# HomePage
+![h1](https://github.com/ranjankumar9/scaling-waffle/assets/107936455/dc529eaf-08f8-4eb2-8544-3bbdf4177439)
+
+# Single Page
+![singlepage](https://github.com/ranjankumar9/scaling-waffle/assets/107936455/112584d6-8d58-450c-8b73-9d43349f4d17)
+
+# Favourite Page
+![favourite](https://github.com/ranjankumar9/scaling-waffle/assets/107936455/1688f17a-0c5b-4784-87a4-40a6b5261b50)
+
+
+
+
