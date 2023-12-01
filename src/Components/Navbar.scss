@@ -1,0 +1,31 @@
+/* ------------------------------Scroll Webkit ------------------------------- */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 0px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(197, 186, 186);
+    // border-radius: 10px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(86, 206, 110);
+    // border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: red;
+  }
+  /* ------------------------------Scroll Webkit ------------------------------- */
+
+.navbar{
+    img{
+        width: 50px;
+        border-radius: 100%;
+        cursor: alias;
+    }
+}
